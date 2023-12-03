@@ -1,16 +1,20 @@
-### Hi there 👋
+## About
 
-<!--
-**dvsnin/dvsnin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an experienced software engineer with expertise in designing and implementing large-scale server distributed systems, microservices architecture, and cloud technologies.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Languages**: Golang, Java
+* **Databases**: PostgreSQL, MongoDB
+* **Messaging Systems**: Kafka, RabbitMQ
+* **In-Memory Data Stores**: Redis
+* **Infrastructure**: Docker, Kubernetes
+
+## Contact
+
+* [Telegram](https://t.me/dvsnin)
+* [Email](mailto:dmvayn@gmail.com)
+
+---
+
+![Stats](https://github-readme-stats.vercel.app/api?username=dvsnin&show_icons=true)
