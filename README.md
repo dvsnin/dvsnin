@@ -1,6 +1,6 @@
 ## About
 
-I'm an experienced software engineer with expertise in designing and implementing large-scale server distributed systems, microservices architecture, and cloud technologies.
+Experienced software engineer with expertise in designing and implementing large-scale server distributed systems, microservices architecture, and cloud technologies.
 
 ## Skills
 
